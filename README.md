@@ -1,4 +1,4 @@
-<h1>HUD Examples/h1>
+<h1>HUD Examples</h1>
 
 This project contains several examples on how to use a re-usable CommonJS module to create a HUD or Status Indicator window/dialog.
 
